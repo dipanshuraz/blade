@@ -1,5 +1,5 @@
 <h1 align="center">
-  Blade - Clone
+  Blade - Clone - Update
 </h1>
 <p align="center">
   <a href="https://github.com/styled-components/styled-components">
